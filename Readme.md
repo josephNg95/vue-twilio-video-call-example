@@ -3,11 +3,11 @@
 ## Client setup
 
 ```
-cd client-app
+cd app-client
 ```
 
 ```
-yarn install
+npm install | yarn
 ```
 
 ### Compiles and hot-reloads for development
@@ -21,7 +21,7 @@ cd server
 ```
 
 ```
-yarn install
+npm install | yarn
 ```
 
 ### Compiles and hot-reloads for development
@@ -31,7 +31,9 @@ node server
 
 
 # Try it
-go to: ``localhost:8080`` and try it
+go to: ``localhost:8080`` and try it\n
+
+
 
 ## For client build
 
