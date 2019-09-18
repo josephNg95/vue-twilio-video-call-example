@@ -31,10 +31,9 @@ node server
 
 
 # Try it
-go to: ``localhost:8080`` and try it\n
+go to: ``localhost:8080`` and try it
 
-
-
+##
 ## For client build
 
 ### Compiles and minifies for production
